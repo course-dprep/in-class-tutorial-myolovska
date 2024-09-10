@@ -1,6 +1,7 @@
 # Tasks to be done ;)
 
 This is a basic example repository using Gnu make for a reproducible research workflow, as described in detail here: [tilburgsciencehub.com](http://tilburgsciencehub.com/). 
+**More changees**......
 
 The main aim of this to have a basic structure, which can be easily adjusted to use in an actual project.  In this example project, the following is done: 
 1. Download and prepare data
@@ -15,7 +16,7 @@ The main aim of this to have a basic structure, which can be easily adjusted to 
 - For the `makefile` to work, R, Gnu make and the TeX distribution (specifically `pdflatex`) need to be made available in the system path 
 - Detailed installation instructions can be found here: [tilburgsciencehub.com](http://tilburgsciencehub.com/)
 
-
+**Changeeees**
 ## Notes
 - `make clean` removes all unncessary temporary files.  - clean your room regularly
 - Tested under Linux Mint (should work in any linux distro, as well as on Windows and Mac) 
